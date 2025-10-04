@@ -1,7 +1,3 @@
-# 깃허브 연습
-
-비쥬얼 스튜디오 코드를 사용해서 깃허브를 연습해 봅니다.
-
-마크다운 문법을 사용하여 
-
-readme파일을 작성중입니다.
+# py
+playground py
+this is added for git push tested!!!!!
